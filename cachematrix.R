@@ -41,7 +41,7 @@
 
 
 # ------------------------------------------------
-#   initialize values for invMat (cache) and myMat (input matrix)
+#   initialize values for invMat (cache) and myMat (input matrix) 
 #   return 4 functions to set/get the above 2 values
 #   See examples of operation transcript above
 makeCacheMatrix <- function(x = matrix()) {
